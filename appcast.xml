@@ -3,12 +3,12 @@
     <channel>
         <title>Daiji</title>
         <item>
-            <title>0.20.0</title>
-            <pubDate>Fri, 21 Aug 2026 16:00:23 +0900</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>0.20.0</sparkle:shortVersionString>
+            <title>0.21.0</title>
+            <pubDate>Fri, 21 Aug 2026 16:25:36 +0900</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>0.21.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/thereturningdev/daiji-releases/releases/download/v0.20.0/Daiji-0.20.0.dmg" length="20390554" type="application/octet-stream" sparkle:edSignature="mTZd10K3lENPcvB7V0M5tPlfcTwNROZO7wXy5R6PHScMp9X1z+3phyGurQofPMQWHJSw0TvrCO2QNUE0IRkkBA=="/>
+            <enclosure url="https://github.com/thereturningdev/daiji-releases/releases/download/v0.21.0/Daiji-0.21.0.dmg" length="20390521" type="application/octet-stream" sparkle:edSignature="WY9G0HIcCPCddaqlCmrJW35fOACsg1Z7SVL970kjViGxBvitxpCjtt2vFT1S+83/ZLY7PqE4D7V+a18JmdnmCg=="/>
         </item>
     </channel>
 </rss>
